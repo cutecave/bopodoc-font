@@ -1,0 +1,26 @@
+# Bopo RubyOnly IVS 注音字型
+
+本專案是利用程式將多款開源字型的注音符號，組裝成具體拼音的開源注音字型集。
+IVS 發音與編碼方式皆遵從「注音IVS字型規格」的讀音表規則，使得使用者在多種 IVS 字體之間切換時，能夠得到一致的發音結果。
+
+## 字型列表
+
+| 字型 | 來源字型 | 來源字重 | 來源授權 |
+|------|---------|---------|---------|
+| 博璞黑體純注音 (BopoSansRubyOnlyIVS) | Noto Sans TC (Google/Adobe) | 900 | SIL OFL 1.1 |
+| 博璞宋體純注音 (BopoSerifRubyOnlyIVS) | Noto Serif TC (Google/Adobe) | 900 | SIL OFL 1.1 |
+| 博璞仿圓純注音 (BopoRoundRubyOnlyIVS) | 昭源環方 Chiron GoRound TC (Tamcy) | 900 | SIL OFL 1.1 |
+
+## 線上編輯器
+免安裝使用字型請至 [波波注音](https://bopodoc.com)
+
+## 授權
+
+本字型依 [SIL Open Font License 1.1](https://openfontlicense.org/) 授權釋出。
+
+來源字型的著作權屬於原作者：
+- [Noto Sans TC / Noto Serif TC](https://github.com/notofonts/noto-cjk)
+- [昭源環方 Chiron GoRound TC](https://github.com/chiron-fonts/chiron-go-round-tc)
+
+IVS 讀音表來源：
+- [注音 IVS 字型規格 BpmfVS](https://github.com/ButTaiwan/bpmfvs)
