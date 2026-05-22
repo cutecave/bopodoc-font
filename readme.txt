@@ -12,7 +12,7 @@ IVS 字體之間切換時，能夠得到一致的發音結果。
 | 字型                                     | 來源字型                          | 授權        |
 | 博璞黑體純注音 (BopoSansRubyOnlyIVS)    | Noto Sans TC (Google/Adobe)       | SIL OFL 1.1 |
 | 博璞宋體純注音 (BopoSerifRubyOnlyIVS)   | Noto Serif TC (Google/Adobe)      | SIL OFL 1.1 |
-| 博璞仿圓純注音 (BopoRoundRubyOnlyIVS)   | 昭源環方 Chiron GoRound TC (Tamcy)| SIL OFL 1.1 |
+| 博璞圓體純注音 (BopoRoundRubyOnlyIVS)   | 昭源環方 Chiron GoRound TC (Tamcy)| SIL OFL 1.1 |
 
 
 組裝方式
