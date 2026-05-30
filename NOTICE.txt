@@ -1,0 +1,18 @@
+BopoRuby Font Family
+Copyright 2024 cutecave
+
+---
+
+本字型的注音合成邏輯與注音 glyph 來源衍生自：
+
+Bopomofo IVS Font Specification
+注音IVS字型規格
+Copyright 2020 But Ko
+https://github.com/ButTaiwan/bpmfvs
+
+標音用注音字型（GenyoMinBopomofo-Regular.ttf）
+依原專案條款自由使用，衍生字型可作商業發行，
+但須保留原作者著作權資訊。
+
+原專案程式碼以 Apache License 2.0 授權發行：
+http://www.apache.org/licenses/LICENSE-2.0
