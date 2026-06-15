@@ -1,7 +1,27 @@
+Bopo Serif RubyOnly IVS / 波波宋體純注音
 Copyright 2026 BopoDoc (https://bopodoc.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://openfontlicense.org
+
+
+---
+
+
+This font is a derivative work based on:
+
+  Noto Serif TC
+  Copyright 2017-2024 Adobe (http://www.adobe.com/).
+  Licensed under the SIL Open Font License, Version 1.1.
+  https://github.com/googlefonts/noto-cjk
+
+
+Bopomofo IVS encoding follows:
+
+  Bopomofo IVS Font Specification (注音IVS字型規格)
+  Copyright 2020 But Ko
+  https://github.com/ButTaiwan/bpmfvs
+  Licensed under Apache License, Version 2.0.
 
 
 ---

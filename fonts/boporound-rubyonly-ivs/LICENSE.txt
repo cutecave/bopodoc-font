@@ -1,7 +1,27 @@
+Bopo Round RubyOnly IVS / 波波圓體純注音
 Copyright 2026 BopoDoc (https://bopodoc.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://openfontlicense.org
+
+
+---
+
+
+This font is a derivative work based on:
+
+  Chiron Go Round TC
+  Copyright 2025 The Chiron GoRound TC Project Authors
+  (https://github.com/chiron-fonts/chiron-go-round-tc)
+  Licensed under the SIL Open Font License, Version 1.1.
+
+
+Bopomofo IVS encoding follows:
+
+  Bopomofo IVS Font Specification (注音IVS字型規格)
+  Copyright 2020 But Ko
+  https://github.com/ButTaiwan/bpmfvs
+  Licensed under Apache License, Version 2.0.
 
 
 ---
