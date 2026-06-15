@@ -1,11 +1,25 @@
-BopoRuby Font Family
+BopoDoc Font Family
 Copyright 2026 BopoDoc (https://bopodoc.com)
 
 
 This project contains derivative works of the following fonts:
 
 
-Bopo Sans RubyOnly IVS (fonts/BopoSansRubyOnlyIVS.ttf)
+BopoKai (fonts/bopokai/BopoKai.ttf)
+
+  Based on: TW-Kai (全字庫正楷體)
+  (c)2026 Ministry of Digital Affairs (數位發展部).
+  Dual-licensed under Open Government Data License, version 1.0
+  and the SIL Open Font License, Version 1.1.
+  https://data.gov.tw/dataset/5961
+
+  Symbols replaced with: Noto Serif TC
+  Copyright 2017-2024 Adobe (http://www.adobe.com/).
+  Licensed under the SIL Open Font License, Version 1.1.
+  https://github.com/googlefonts/noto-cjk
+
+
+Bopo Sans RubyOnly IVS (fonts/boposans-rubyonly-ivs/BopoSansRubyOnlyIVS.ttf)
 
   Based on: Noto Sans TC
   Copyright 2014-2021 Adobe (http://www.adobe.com/),
@@ -14,7 +28,7 @@ Bopo Sans RubyOnly IVS (fonts/BopoSansRubyOnlyIVS.ttf)
   https://github.com/googlefonts/noto-cjk
 
 
-Bopo Serif RubyOnly IVS (fonts/BopoSerifRubyOnlyIVS.ttf)
+Bopo Serif RubyOnly IVS (fonts/boposerif-rubyonly-ivs/BopoSerifRubyOnlyIVS.ttf)
 
   Based on: Noto Serif TC
   Copyright 2017-2024 Adobe (http://www.adobe.com/).
@@ -22,7 +36,7 @@ Bopo Serif RubyOnly IVS (fonts/BopoSerifRubyOnlyIVS.ttf)
   https://github.com/googlefonts/noto-cjk
 
 
-Bopo Round RubyOnly IVS (fonts/BopoRoundRubyOnlyIVS.ttf)
+Bopo Round RubyOnly IVS (fonts/boporound-rubyonly-ivs/BopoRoundRubyOnlyIVS.ttf)
 
   Based on: Chiron Go Round TC
   Copyright 2025 The Chiron GoRound TC Project Authors

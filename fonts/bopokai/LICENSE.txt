@@ -1,7 +1,25 @@
+BopoKai / 波波標楷
 Copyright 2026 BopoDoc (https://bopodoc.com)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is available with a FAQ at: https://openfontlicense.org
+
+
+---
+
+
+This font is a derivative work based on:
+
+  TW-Kai (全字庫正楷體)
+  (c)2026 Ministry of Digital Affairs (數位發展部).
+  Dual-licensed under Open Government Data License, version 1.0
+  and the SIL Open Font License, Version 1.1.
+  https://data.gov.tw/dataset/5961
+
+  Noto Serif TC (symbols only)
+  Copyright 2017-2024 Adobe (http://www.adobe.com/).
+  Licensed under the SIL Open Font License, Version 1.1.
+  https://github.com/googlefonts/noto-cjk
 
 
 ---
