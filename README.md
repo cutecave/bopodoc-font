@@ -29,6 +29,14 @@
 |------|---------|------|
 | 波波標楷部首 (BopoKaiRadical) | 全字庫正楷體 TW-Kai (數位發展部) | SIL OFL 1.1 |
 
+### 波波手寫 BopoHand
+
+改作自辰宇落雁體 2.0 細體，字形沒有修改。原字型的授權規定改作不能沿用「辰宇落雁」這個名字，所以改名為波波手寫。原版字型請到[原作者的 GitHub](https://github.com/Chenyu-otf/chenyuluoyan_thin) 下載。
+
+| 字型 | 來源字型 | 授權 |
+|------|---------|------|
+| 波波手寫 (BopoHand) | 辰宇落雁體 2.0 細體 Chenyuluoyan (王立宇、劉韋辰) | SIL OFL 1.1 |
+
 ### 波波純注音 Bopo RubyOnly IVS
 
 利用程式將多款開源字型的注音符號，組裝成具體拼音的注音字型集。

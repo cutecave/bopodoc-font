@@ -1,4 +1,5 @@
 # TTF too large for git, distribute via release zip
 fonts/bopokai/BopoKai.ttf
 fonts/bopokai-radical/BopoKaiRadical.ttf
+fonts/bopohand/BopoHand.ttf
 *.zip
