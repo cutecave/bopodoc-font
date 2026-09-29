@@ -53,6 +53,15 @@ Bopo Round RubyOnly IVS (fonts/boporound-rubyonly-ivs/BopoRoundRubyOnlyIVS.ttf)
   Licensed under the SIL Open Font License, Version 1.1.
 
 
+Bopo Hand RubyOnly IVS (fonts/bopohand-rubyonly-ivs/BopoHandRubyOnlyIVS.ttf)
+
+  Based on: ChenYuluoyan 2.0 Thin (辰宇落雁體 2.0 細體)
+  Copyright (c) 2022, Wang, Li-Yu and Liu, Wei-Chen,
+  with Reserved Font Name "辰宇落雁" and "Chenyuluoyan".
+  (https://github.com/Chenyu-otf/chenyuluoyan_thin)
+  Licensed under the SIL Open Font License, Version 1.1.
+
+
 ---
 
 

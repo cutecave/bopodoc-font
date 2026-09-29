@@ -39,9 +39,11 @@ IVS 發音與編碼方式皆遵從「注音IVS字型規格」的讀音表規則�
 | 波波黑體純注音 (BopoSansRubyOnlyIVS) | Noto Sans TC (Google/Adobe) | SIL OFL 1.1 |
 | 波波宋體純注音 (BopoSerifRubyOnlyIVS) | Noto Serif TC (Google/Adobe) | SIL OFL 1.1 |
 | 波波圓體純注音 (BopoRoundRubyOnlyIVS) | 昭源環方 Chiron GoRound TC (Tamcy) | SIL OFL 1.1 |
+| 波波手寫純注音 (BopoHandRubyOnlyIVS) | 辰宇落雁體 Chenyuluoyan (王立宇、劉韋辰) | SIL OFL 1.1 |
 
 注音字型的組裝方式：分別從各來源字型的多種字重取出注音符號重組合而成，避免注音字體過細。
 聲調符號經過特殊處理，放大聲調符號使其更易於閱讀。並微調二聲落筆方向為從左而右，以符合台灣人習慣。
+波波手寫純注音保留原字型的手寫筆觸，來源只有細體，另外把筆畫加粗。
 
 ## 線上編輯器
 
@@ -55,6 +57,7 @@ IVS 發音與編碼方式皆遵從「注音IVS字型規格」的讀音表規則�
 - [全字庫正楷體 TW-Kai](https://data.gov.tw/dataset/5961) (數位發展部)
 - [Noto Sans TC / Noto Serif TC](https://github.com/notofonts/noto-cjk) (Google/Adobe)
 - [昭源環方 Chiron GoRound TC](https://github.com/chiron-fonts/chiron-go-round-tc) (Tamcy)
+- [辰宇落雁體 Chenyuluoyan](https://github.com/Chenyu-otf/chenyuluoyan_thin) (王立宇、劉韋辰)
 
 IVS 讀音表來源：
 - [注音 IVS 字型規格 BpmfVS](https://github.com/ButTaiwan/bpmfvs)
